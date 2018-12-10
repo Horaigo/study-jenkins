@@ -12,7 +12,7 @@ public class Calculator {
      * @return Sum of the two numbers
      */
     public static int sum(int x, int y) {
-        x + y;
+        return x + y;
     }
 
     /**
